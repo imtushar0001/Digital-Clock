@@ -29,8 +29,8 @@ To replicate this project, follow the steps below:
 
 ### Cloning the Repository
 bash
-git clone <repository-url>
-cd <repository-directory>
+*git clone <[repository-url](https://github.com/imtushar0001/Digital-Clock)>*
+*cd Digital-Clock*
 
 
 ### Simulation and Synthesis
@@ -61,7 +61,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 - Dr. Srinivas Boppu for guidance and support.
-- [Insert any additional acknowledgments here]
 
 ---
 
@@ -72,5 +71,3 @@ Here are some example commands to get you started with the Icarus Verilog and GT
 - *View Waveform*: gtkwave digital_clock.vcd
 
 ---
-
-Feel free to modify the README as needed to better fit your project specifics.
