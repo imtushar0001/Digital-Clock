@@ -1,5 +1,3 @@
----
-
 # Digital Clock Project
 
 ## Overview
@@ -60,13 +58,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 - Dr. Srinivas Boppu for guidance and support.
-
----
-
-### Example Commands
-Here are some example commands to get you started with the Icarus Verilog and GTKWave:
-- *Compile Verilog Code*: iverilog -o digital_clock clk.v clkDivider.v
-- *Run Simulation*: vvp digital_clock
-- *View Waveform*: gtkwave digital_clock.vcd
-
----
