@@ -1,5 +1,3 @@
-Here's a sample README file for your digital clock project:
-
 ---
 
 # Digital Clock Project
@@ -29,7 +27,8 @@ To replicate this project, follow the steps below:
 
 ### Cloning the Repository
 bash
-*git clone <[repository-url](https://github.com/imtushar0001/Digital-Clock)>*
+*git clone (https://github.com/imtushar0001/Digital-Clock)*
+
 *cd Digital-Clock*
 
 
